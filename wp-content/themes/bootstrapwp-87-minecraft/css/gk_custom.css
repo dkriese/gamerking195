@@ -1,0 +1,19 @@
+/* 
+    Document   : gk_custom
+    Created on : Jul 29, 2013, 6:34:44 PM
+    Author     : Diana
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+#highlight { 
+    color: turquoise;
+    font-size: large;
+    font-weight: bold;
+}
+
+.logo {
+    margin-left: auto;
+    margin-right: auto;
+}
+
